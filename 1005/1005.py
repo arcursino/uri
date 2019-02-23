@@ -1,6 +1,8 @@
-A = float(input())
-B = float(input())
-MEDIA = ((A*3.5) + (B*7.5))/11.0
-print('MEDIA = ''%.5f' %MEDIA)
+a = float(input())
+b = float(input())
+
+media = ((a*3.5) + (b*7.5))/11.0
+
+print('MEDIA = ''%.5f' %media)
 
 

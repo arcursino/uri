@@ -1,3 +1,4 @@
-A = int(input())
-B = int(input())
-print('X = {}'.format(A+B))
+a = int(input())
+b = int(input())
+
+print('X = {}'.format(a+b))
