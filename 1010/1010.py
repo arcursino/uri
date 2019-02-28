@@ -7,4 +7,3 @@ d, e, f = int(d), int(e), float(f)
 pagar = (b * c) + (e * f)
 
 print('VALOR A PAGAR: R$ {:.2f}'.format(pagar))
-
