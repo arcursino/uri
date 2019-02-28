@@ -1,4 +1,4 @@
-name = raw_input("")
+name = input()
 inicial = float(input())
 final = float(input())
 

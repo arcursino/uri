@@ -3,4 +3,4 @@ b = float(input())
 
 media = ((a * 3.5) + (b * 7.5)) / 11.0
 
-print('MEDIA = ''%.5f' %media)
+print('MEDIA = ''%.5f' % media)
