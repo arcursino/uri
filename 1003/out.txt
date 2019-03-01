@@ -1,5 +1,0 @@
-SOMA = 40
-
-SOMA = -20
-
-SOMA = 0
