@@ -7,7 +7,7 @@ if test -f *.py; then
 fi
 
 if test -f *.c; then
-    gcc *.c
+    gcc -Wall -O2 *.c -lm
     ./a.out < input.txt > result.txt
     diff output.txt result.txt
     rm result.txt
