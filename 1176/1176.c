@@ -8,13 +8,13 @@ long long memoize[61];
 int main() {
     int n, t, i;
 
-    scanf("%d", &t); // insere o número de testes
+    scanf("%d", &t);  // insere o número de testes
 
-    for(i = 0; i <= 60; i++) {
+    for (i = 0; i <= 60; i++) {
         memoize[i] = -1;
     }
 
-    for(i = 0; i < t; i++) {
+    for (i = 0; i < t; i++) {
         scanf("%d", &n);
 
         printf("Fib(%d) = %lld\n", n, fib(n));

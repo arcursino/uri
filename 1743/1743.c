@@ -1,7 +1,7 @@
 // tags: begginer, array, control variable.
 #include <stdio.h>
 
-int main () {
+int main() {
     int x[5];
     int y[5];
     int i, j, plugavel;
