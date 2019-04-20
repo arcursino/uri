@@ -1,4 +1,5 @@
-# tags: separação de string, separa string, cálculo de área, triângulo, círculo, trapézio, quadrado, retângulo
+# tags: separação de string, separa string, cálculo de área, triângulo,
+# círculo, trapézio, quadrado, retângulo
 
 a, b, c = input().split()
 a, b, c = float(a), float(b), float(c)
