@@ -26,4 +26,6 @@ int main() {
     } else {
         printf("N\n");
     }
+
+    return 0;
 }

@@ -19,6 +19,8 @@ int main() {
 
         printf("Fib(%d) = %lld\n", n, fib(n));
     }
+
+    return 0;
 }
 
 long long fib(int n) {

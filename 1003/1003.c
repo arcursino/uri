@@ -7,4 +7,6 @@ int main() {
     scanf("%d", &b);
 
     printf("SOMA = %d\n", a + b);
+
+    return 0;
 }

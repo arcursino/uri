@@ -14,6 +14,8 @@ int main() {
 
         printf("X[%d] = %d\n", i, X[i]);
     }
+
+    return 0;
 }
 
 
