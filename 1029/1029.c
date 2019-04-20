@@ -2,7 +2,7 @@
 
 int count;
 
-int fib(int x){
+int fib(int x) {
     count++;
     if (x == 0 || x == 1) {
        return x;
@@ -11,14 +11,14 @@ int fib(int x){
     }
 }
 
-int main(){
+int main() {
     int n, x, i, result;
 
     scanf("%d", &n);
 
     i = 0;
 
-    while (i < n){
+    while (i < n) {
         count = 0;
 
         scanf("%d", &x);
