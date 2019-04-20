@@ -4,6 +4,8 @@ python:
     - "3.6"
 install:
     - pip install flake8
+    - sudo apt install -y gcc g++
+    - pip install flake8 cpplint
 script:
     - flake8
 notifications:
