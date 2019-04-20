@@ -3,11 +3,11 @@ python:
     - "3.4"
     - "3.6"
 install:
-    - pip install flake8
     - sudo apt install -y gcc g++
     - pip install flake8 cpplint
 script:
     - flake8
+    - cpplint --quiet --recursive --filter="-legal/copyright,-runtime/int,-runtime/arrays" .
 notifications:
     email:
         - arcursino@gmail.com
