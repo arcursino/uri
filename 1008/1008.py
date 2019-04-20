@@ -1,3 +1,5 @@
+# tags: iniciante
+
 a = int(input())
 b = int(input())
 c = float(input())

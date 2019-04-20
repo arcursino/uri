@@ -1,3 +1,5 @@
+# tags: iniciante, hora, velocidade
+
 hour = int(input())
 speed = int(input())
 

@@ -1,3 +1,5 @@
+# tags: iniciante, cálculo de área, círculo, pi
+
 PI = 3.14159
 
 r = float(input())

@@ -1,3 +1,5 @@
+# tags: iniciante, media ponderada
+
 a = float(input())
 b = float(input())
 

@@ -1,3 +1,5 @@
+# tags: iniciante
+
 name = input()
 inicial = float(input())
 final = float(input())

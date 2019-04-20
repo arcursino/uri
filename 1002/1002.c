@@ -1,3 +1,5 @@
+// tags: iniciante, cálculo de área, círculo, pi
+
 #include <stdio.h>
 
 int main() {

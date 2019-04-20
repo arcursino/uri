@@ -1,3 +1,5 @@
+// tags: iniciante
+
 #include <stdio.h>
 
 int main() {

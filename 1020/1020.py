@@ -1,3 +1,5 @@
+# tags: iniciante
+
 total = int(input())
 
 ano = int(total / 365)

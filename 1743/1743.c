@@ -1,4 +1,4 @@
-// tags: begginer, array, control variable.
+// tags: iniciante, array, variável de controle
 #include <stdio.h>
 
 int main() {

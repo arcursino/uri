@@ -1,3 +1,5 @@
+// tags: media ponderada, iniciante
+
 #include <stdio.h>
 
 int main() {

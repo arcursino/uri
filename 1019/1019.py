@@ -1,3 +1,5 @@
+# tags: iniciante, módulo, resto, tempo
+
 total = int(input())
 
 hora = total // (60 * 60)

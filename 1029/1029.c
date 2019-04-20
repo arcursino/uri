@@ -1,3 +1,5 @@
+// tags: recursivo, fibonacci, contador
+
 #include <stdio.h>
 
 int count;

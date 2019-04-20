@@ -1,3 +1,5 @@
+# tags: teorema de pitágoras, raiz quadrada, separar string, separação de string
+
 import math
 
 x1, y1 = input().split()
