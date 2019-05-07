@@ -10,6 +10,5 @@ Para executar os programas, basta entrar na pasta do problema e executar os scri
 
 Ex:
 ```
-cd 1001/
-./run.sh
+./run_all.sh
 ```
