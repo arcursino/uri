@@ -8,11 +8,13 @@ int main() {
     int n, m;
     long long result;
 
-    while (scanf("%d %d", &n, &m) != EOF) {
+    while (scanf("%d %i", &n, &m) != EOF) {
         result = fat(n) + fat(m);
 
         printf("%lld\n", result);
     }
+
+    return 0;
 }
 
 long long fat(int n) {
@@ -20,7 +22,6 @@ long long fat(int n) {
         return 1;
     } else {
         return n * fat(n - 1);
-
     }
 }
 
