@@ -6,7 +6,7 @@ Desafios de programação para exercitar lógica de programação.
 
 ## Rodando os programas
 
-Para executar os programas, basta entrar na pasta do problema e executar os scritps.
+Para executar os programas, basta executar os scritps.
 
 Ex:
 ```
