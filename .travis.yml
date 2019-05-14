@@ -9,8 +9,8 @@ install:
     - sudo apt install -y gcc-4.8
     - pip install flake8 cpplint
 script:
-    - flake8
     - gcc --version
+    - flake8
     - cpplint --quiet --recursive --filter="-legal/copyright,-runtime/int,-runtime/arrays" .
     - ./check_tags.sh
     - ./run_all.sh
