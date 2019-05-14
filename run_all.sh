@@ -9,7 +9,7 @@ else
 fi
 
 function run_c {
-    gcc $warning_flags ./*.c -lm
+    gcc $warning_flags -O2 ./*.c -lm
 
     if [[ -f input.txt ]]; then
         ./a.out < input.txt > result.txt
