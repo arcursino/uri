@@ -1,4 +1,4 @@
-// Tags: vetor, posição
+// tags: vetor, posição
 
 #include <stdio.h>
 
