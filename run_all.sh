@@ -56,4 +56,6 @@ function run_all {
     done
 }
 
+cd $(dirname $0)
+
 run_all
