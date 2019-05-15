@@ -1,0 +1,2 @@
+Menor valor: -15
+Posicao: 5
