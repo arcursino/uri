@@ -1,4 +1,4 @@
-// tags: array
+// tags: vetor
 
 #include <stdio.h>
 

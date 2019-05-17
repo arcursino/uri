@@ -1,4 +1,5 @@
-// tags: iniciante, array, variável de controle
+// tags: iniciante, vetor, variável de controle
+
 #include <stdio.h>
 
 int main() {
