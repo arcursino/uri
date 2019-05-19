@@ -8,6 +8,6 @@ int main () {
     scanf("%d", &n);
 
     while (n > 0 && scanf("%d %d", &x, &y)) {
-
     }
+    return 0;
 }
