@@ -10,7 +10,7 @@ int main() {
 
     while (scanf("%d %d", &n, &m) == 2) {
           permanece = 0;
-          for (i = n; i <= m; i++)  {
+          for (i = n; i <= m; i++) {
                 eh_repitido = 0;
                 numero = 0;
                 x = i;
