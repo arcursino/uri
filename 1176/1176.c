@@ -1,4 +1,4 @@
-// tags: recursivo, fibonacci, memoization, iniciante.
+// tags: recursivo, fibonacci, memoization, iniciante
 
 #include <stdio.h>
 

@@ -1,4 +1,4 @@
-# tags: iniciante, separação de string, separa string
+# tags: iniciante, separar string
 
 a, b, c = input().split()
 a, b, c = int(a), int(b), float(c)

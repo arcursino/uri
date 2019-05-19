@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 #include <math.h>
+#include <string.h>
 
 int main() {
     int n, b, i, j, chamada;
@@ -14,9 +15,10 @@ int main() {
         }
         int chamadas[n + 1];
 
-        for (i = 0; i <= n; i++) {
+        /*for (i = 0; i <= n; i++) {
             chamadas[i] = 0;
-        }
+        }*/
+        memset(chamadas, 0, sizeof(chamadas));
 
         for (i = 0; i < b; i++) {
             for (j = 0; j < b; j++) {

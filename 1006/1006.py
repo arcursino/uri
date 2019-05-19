@@ -1,4 +1,4 @@
-# tags: iniciante, média ponderada
+# tags: iniciante, media ponderada
 
 a = float(input())
 b = float(input())

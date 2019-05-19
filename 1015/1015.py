@@ -1,5 +1,4 @@
-# tags: teorema de pitágoras, raiz quadrada, separar string,
-# separação de string
+# tags: teorema de pitágoras, raiz quadrada, separar string
 
 import math
 
