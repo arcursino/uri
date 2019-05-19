@@ -15,13 +15,13 @@ int main() {
                 numero = 0;
                 x = i;
 
-                while (x != 0) {
+                while(x != 0) {
                       numero_casa[numero] = x % 10;
                       x /= 10;
                       numero = numero + 1;
                 }
-                for (j = 0; j < numero; j++) {
-                      for (k = j+1; k < numero; k++) {
+                for(j = 0; j < numero; j++) {
+                      for(k = j+1; k < numero; k++) {
                             if(numero_casa[j] == numero_casa[k]) {
                                  eh_repitido = 1;
                             }
