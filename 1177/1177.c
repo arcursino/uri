@@ -1,17 +1,20 @@
-// tags: vetor
+// tags: iniciante
 
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main () {
-    int t, i = 0, x;
-    int n[1000];
+    int t, i = 0, j = 0;
 
     scanf("%d", &t);
 
-    while (i < 1000) {
-        scanf("%d\n", &n[i]);
-        i++;
+    for (i = 0; i < 1000; i++) {
+        printf("N[%d] = %d\n", i, j);
+        j++;
+        if (j == t) {
+            j = 0;
+        }
+
     }
 
     return 0;
-}*/
+}
