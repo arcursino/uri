@@ -11,13 +11,13 @@ int main() {
     scanf("%s\n", &t);
 
     for (lin = 0; lin < 12; lin++) {
-        for (col = 0; col < 12; col++){
+        for (col = 0; col < 12; col++) {
             scanf("%f\n", &m[lin][col]);
         }
     }
 
     for (lin = linha; lin < 12; lin++) {
-        for (col = 0; col < 12; col++){
+        for (col = 0; col < 12; col++) {
             if (t == "S") {
                 soma += m[lin][col];
                 printf("%f\n", soma);
