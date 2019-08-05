@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main () {
+int main() {
     int t, i = 0, j = 0;
 
     scanf("%d", &t);
@@ -13,7 +13,6 @@ int main () {
         if (j == t) {
             j = 0;
         }
-
     }
 
     return 0;
